@@ -10,7 +10,7 @@ const USERS_TO_INSERT = [
     }, {
         "_id": 2,
         "userName": "user1",
-        "firstName": "John",
+        "firstName": "John", 
         "lastName": "Doe",
         "benefitStartDate": "2030-01-10",
         "password": "User1_123"
